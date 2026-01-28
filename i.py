@@ -1,0 +1,1 @@
+from qwen_omni_utils import process_mm_info
